@@ -117,10 +117,3 @@ The dataset contains user-level interaction data across two platforms:
    ```
 
 ---
-
-
-## Future Improvements
-
-- Include A/B test p-values and confidence intervals.
-- Integrate cost-based metrics (CPC, CPA).
-- Perform time-series analysis on campaign timelines.
